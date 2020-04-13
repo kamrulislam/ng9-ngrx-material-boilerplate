@@ -2,6 +2,22 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
+## How to install
+
+Follow the following commands
+
+- Clone this repo using `git clone --depth=1 https://github.com/kamrulislam/ng9-ngrx-material-boilerplate.git <PROJECT_NAME>`
+- Go to the repository `cd PROJECT_NAME`
+- Remove exsiting git history `rm -fr .git/`
+- Init git `git init`
+- Add everything and commit 
+```
+git add .
+git commit -m 'initial commit'
+```
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
