@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
-## How to install
+## How to setup your project
 
 Follow the following commands
 
@@ -16,7 +16,11 @@ git add .
 git commit -m 'initial commit'
 ```
 
+## How to run
 
+- Ensure you are using right node version, run `nvm use`
+- Install dependencies `npm i`
+- Start local server `npm start`
 
 ## Development server
 
